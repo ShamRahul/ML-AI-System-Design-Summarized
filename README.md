@@ -1,6 +1,6 @@
 # 🚀 Demystifying the ML/AI Platform: A Comprehensive Architectural System Design 🧠
 
-In the dynamic realm of Machine Learning, a comprehensive understanding of an ML/AI Platform's architecture is crucial. This document explores the architectural system design of an ML/AI Platform, focusing on its various components and the tools that can be used in each stage.
+In the dynamic realm of Machine Learning/Aritifical Intelligence, a comprehensive understanding of an ML/AI Platform's architecture is crucial. This document explores the architectural system design of an ML/AI Platform, focusing on its various components and the tools that can be used in each stage.
 
 ## 🌐 **1. Data Ingestion and Labeling 📥**
    - **Objective:** To integrate data from various sources and ensure effective labeling.
